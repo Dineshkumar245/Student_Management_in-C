@@ -1,8 +1,8 @@
 # Student Record Management System in C
 A simple and efficient C program to manage student records. This project is designed to help users add, view, edit, and delete student details, making it an ideal tool for small-scale academic or administrative purposes.
 
-<h3>Features</h3>
-1.Add Student
+<h2>Features</h2>
+<h3>1.Add Student</h3>
 
    *Add new student records, including:
 
@@ -12,7 +12,7 @@ A simple and efficient C program to manage student records. This project is desi
  
    *CGPA: The student's cumulative grade point average.
 
-2.View Students
+<h3>2.View Students</h3>
 
 Displays all stored student records in a tabular format with:
 
@@ -22,7 +22,7 @@ Displays all stored student records in a tabular format with:
 
    *CGPA
 
-3.Edit Student
+<h3>3.Edit Student</h3>
 
 Modify an existing student's details by their unique ID:
 
@@ -30,13 +30,13 @@ Modify an existing student's details by their unique ID:
 
    *Update the student's CGPA.
 
-4.Delete Student
+<h3>4.Delete Student</h3>
 
    *Remove a student record by ID.
 
    *Automatically shifts records to fill gaps in the array after deletion.
 
-5.Exit
+<h3>5.Exit</h3>
 
 # How to Run the Program
 You  can just run the program by coping it and paste it in GDB online c compiler.

@@ -4,9 +4,9 @@ A simple and efficient C program to manage student records. This project is desi
 <h3>Features</h3>
 1.Add Student
 
-*Add new student records, including:
+     *Add new student records, including:
 
-*ID: A unique identifier for each student.
+     *ID: A unique identifier for each student.
 
 *Name: The student's full name (up to 50 characters).
 

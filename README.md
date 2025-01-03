@@ -3,36 +3,38 @@ A simple and efficient C program to manage student records. This project is desi
 
 <h3>Features</h3>
 1.Add Student
-Add new student records, including:
 
-ID: A unique identifier for each student.
+*Add new student records, including:
 
-Name: The student's full name (up to 50 characters).
+*ID: A unique identifier for each student.
 
-CGPA: The student's cumulative grade point average.
+*Name: The student's full name (up to 50 characters).
+
+*CGPA: The student's cumulative grade point average.
 
 2.View Students
 
 Displays all stored student records in a tabular format with:
-ID
 
-Name
+*ID
 
-CGPA
+*Name
+
+*CGPA
 
 3.Edit Student
 
 Modify an existing student's details by their unique ID:
 
-Update the student's name.
+*Update the student's name.
 
-Update the student's CGPA.
+*Update the student's CGPA.
 
 4.Delete Student
 
-Remove a student record by ID.
+*Remove a student record by ID.
 
-Automatically shifts records to fill gaps in the array after deletion.
+*Automatically shifts records to fill gaps in the array after deletion.
 
 5.Exit
 
